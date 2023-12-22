@@ -44,8 +44,8 @@ Esta vista nos muestra un formulario de tres campos, los cuales son necesarios p
 a travez del servicio web
 
 <div align="center">
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648622796824_100.PNG?raw=true"/>
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648619341866_100.PNG?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151542_com.example.appblog_031802.jpg?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151650_com.example.appblog_031754.jpg?raw=true"/>
 </div> 
 
 La pantalla anterior muestra los detalles de cada una de las entrada que se encuentra en la lista, podemos acceder a ella al tocar cada elemento de la lista 
