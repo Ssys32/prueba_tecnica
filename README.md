@@ -1,7 +1,7 @@
 # AppBlog
 
 <div align="center">
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648619333254_100.PNG?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151506_com.example.appblog_031805.jpg?raw=true"/>
 <img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648622789151_100.PNG?raw=true"/>
 </div> 
 
