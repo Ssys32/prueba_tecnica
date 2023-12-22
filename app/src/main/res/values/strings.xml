@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Blog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_new_post">Crear Entrada Blog</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_author">Autor</string>
+    <string name="hint_content">Contenido</string>
+    <string name="hint_search_by_author">Buscar por autor</string>
+    <string name="description_btn">Boton para agregar una nueva entrada</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
