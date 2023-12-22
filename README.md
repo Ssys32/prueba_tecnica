@@ -26,8 +26,8 @@ El servicio web esta alojado en un host gratuito https://es.000webhost.com/.
 ## Guía de usuario
 ---
 <div align="center">
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648622789151_100.PNG?raw=true"/>
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648619333254_100.PNG?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151506_com.example.appblog_031805.jpg?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151607_com.example.appblog_031759.jpg?raw=true"/>
 </div> 
  
 Pantalla de inicio se pueden identificar la lista de entradas del blog y un boton flotante que nos indica que nos llevara a la vista para agregar una nueva
@@ -36,8 +36,8 @@ Esta vista tambien nos desplegara las entradas que se tengan almacenadas de form
 en caso de no tener ninguna entrada almacenada de forma local se mostrara vacia la lista y el boton de agregar estara desactivado
 
 <div align="center">
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648622804192_100.PNG?raw=true"/>
-<img style=:"width="400" height="400" src="https://github.com/Ssys32/AppBlog/blob/master/1648619327184_100.PNG?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151530_com.example.appblog_031804.jpg?raw=true"/>
+<img style=:"width="400" height="400" src="https://github.com/Ssys32/prueba_tecnica/blob/master/Screenshot_20231222_151611_com.example.appblog_031758.jpg?raw=true"/>
 </div> 
 
 Esta vista nos muestra un formulario de tres campos, los cuales son necesarios para crear una nueva entrada y un boton de guardar para insertarla en la base de datos
